@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+chroma_db/
+.streamlit/secrets.toml
+.DS_Store

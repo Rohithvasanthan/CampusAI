@@ -171,5 +171,4 @@ Open **`http://localhost:8501`** in your browser, upload any academic PDF, and s
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rohithvasanthan-181717?style=flat-square&logo=github)](https://github.com/Rohithvasanthan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohithvasanthan18-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rohithvasanthan18)
-[![YouTube](https://img.shields.io/badge/YouTube-Rohith_Flow-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@rohithflow)#   C a m p u s A I  
- 
+[![YouTube](https://img.shields.io/badge/YouTube-Rohith_Flow-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@rohithflow)
